@@ -1,11 +1,5 @@
 # arkham-engine
 
-FIXME: Write a one-line description of your library/project.
-
-## Overview
-
-FIXME: Write a paragraph about the library/project and highlight its goals.
-
 ## Setup
 
 To get an interactive development environment run:
@@ -34,6 +28,6 @@ get live reloading, nor a REPL.
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2016
 
 Distributed under the Eclipse Public License either version 1.0 or (at your option) any later version.
